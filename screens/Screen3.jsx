@@ -99,7 +99,7 @@ const Screen3 = ({navigation}) => {
   });
 
   const handlePress = () => {
-    navigation.navigate('Screen3');
+    navigation.navigate('Screen2');
   };
 
   return (
